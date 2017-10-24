@@ -1,0 +1,103 @@
+@charset "utf-8";
+/* CSS Document */
+
+#storbox{
+	height:100%;
+	width:100%;
+	position:absolute;
+}
+/*.black_box{
+	height:4%;
+	width:85%;
+	font-size:24px;
+	font-family:"Comic Sans MS", cursive;
+	float:left;
+	background-color:#009;
+	margin:10px;
+}*/
+
+body{
+  margin:0;	
+}
+header{
+	height:10%;
+	width:100%;
+	font-family:"Arial Black", Gadget, sans-serif;
+	font-size:16px;
+	background-color:#966;
+	overflow:hidden;
+	text-align:center;
+	
+}
+
+aside{
+	height:90%;
+	width:20%;
+	float:left;
+	background-color:#966;
+	
+	
+}
+article{
+	height:90%;
+	width:80%;
+	font-family:"Times New Roman", Times, serif;
+	background-color:#000;
+	overflow:hidden;
+	float:left;
+	
+}
+ul{
+	list-style: none;
+	text-align:center;
+	padding:0;
+	margin:10px;
+}
+li{
+	/*height:100%;
+	width:100%;
+	float:left;
+	font-size:16px;
+	margin-top:20px;
+	background-color:#9C6;
+	*/
+	height:6%;
+	width:85%;
+	font-size:24px;
+	font-family:"Comic Sans MS", cursive;
+	background-color:#CCC;
+	margin:20px;
+}
+
+p{
+   font-family:"Times New Roman", Times, serif;	
+   font-size:18px;
+   color:#FFF;
+   line-height:1,5;
+}
+h1{
+	color:#FFF;
+	font-size:36px;
+}
+h2{
+	color:#FFF;
+	font-size:36px;
+}
+h3{
+	color:#FFF;
+	font-size:20px;
+}
+h4{
+	color:#FFF;
+	font-size:20px;
+	
+}
+h5{
+	color:#FFF;
+	font-size:20px;
+}
+figure{
+	float:left;
+	color:#FFF;
+	
+}
